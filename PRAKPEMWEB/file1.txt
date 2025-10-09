@@ -1,0 +1,4 @@
+nama : Dandung
+nim  : 105222033
+hobi : maen game
+umur : 19
